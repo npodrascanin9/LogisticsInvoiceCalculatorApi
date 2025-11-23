@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LogisticsInvoiceCalculator.UnitTests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+036aceb9316997fd2712d7ddb40b38ff870360d5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e958294ffea4d83a58425dc224f750f3b7c7a635")]
 [assembly: System.Reflection.AssemblyProductAttribute("LogisticsInvoiceCalculator.UnitTests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LogisticsInvoiceCalculator.UnitTests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
